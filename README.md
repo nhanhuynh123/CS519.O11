@@ -15,4 +15,4 @@
 | STT | Họ tên| MSSV | Email| Link Github |
 | :---: | --- | --- | --- | --- |
 | 1 | Huỳnh Chí Nhân | 22520996 | 22520996@gm.uit.edu.vn | [nhanhuynh123](https://github.com/nhanhuynh123) |
-| 2 | Nguyễn Hồ Nam | --- | --- | --- |
+| 2 | Nguyễn Hồ Nam | :---: | --- | --- |
